@@ -16,7 +16,7 @@ As a user,
 
 [Wireframe](ID_S10239969_Ng%20Bi%20De_Assg1_wireframe.xd)
 
-[VideoWalkthrough](ID_S10239969_Ng%20Bi%20De_Assg1_VideoWalkthrough.mp4)
+[VideoWalkthrough](https://connectnpedu.sharepoint.com/:v:/r/sites/CHICKENRICEGPA/Shared%20Documents/General/Recordings/New%20channel%20meeting-20221204_202321-Meeting%20Recording.mp4?csf=1&web=1&e=p2vwbA)
 
 ## Features
 1. Navigation Bar
