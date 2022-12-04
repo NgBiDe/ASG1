@@ -14,7 +14,9 @@ As a user,
 - Store for merchandise
 - Ways to contact them
 
-[Wireframe](Wireframe.xd)
+[Wireframe](ID_S10239969_Ng%20Bi%20De_Assg1_wireframe.xd)
+
+[VideoWalkthrough](ID_S10239969_Ng%20Bi%20De_Assg1_VideoWalkthrough.mp4)
 
 ## Features
 1. Navigation Bar
@@ -100,7 +102,6 @@ As a user,
 
 ### Media
 
-
 #### [About slate](https://mobile.twitter.com/aviumesports)
 #### [Bin](https://www.subpng.com/png-m5is5t/)
 #### [Caravan Studio](https://www.linkedin.com/company/caravanstudios/)
@@ -112,7 +113,6 @@ As a user,
 #### [TheAlley](https://www.sunwayvelocitymall.com/directory/the-alley)
 #### [Tiktok](https://pixabay.com/vectors/search/tiktok/)
 #### [Twitch](https://icon-icons.com/icon/twitch-logo/189242)
-
 
 ### Acknowledgements
 
