@@ -1,10 +1,10 @@
-let shoppingCart = document.querySelector('.shopping-cart');
+let shoppingCart = document.querySelector('.shopping-cart'); /*shoppingcart*/
 
 document.querySelector('#cart-btn').onclick = () =>{
     shoppingCart.classList.toggle('active');
 }
 
-var swiper = new Swiper(".sponsor-slider", {
+var swiper = new Swiper(".sponsor-slider", { /*img slider for sponsors*/
     loop:true,
     spaceBetween: 20,
     autoplay: {
